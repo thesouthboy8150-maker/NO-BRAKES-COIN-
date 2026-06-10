@@ -46,14 +46,14 @@ Create a project that grows through transparency, community support and future t
 
 Contract Address:
 
-PASTE_TOKEN_ADDRESS_HERE
+https://x.com/nobrakescoin?s=11
 
 ---
 
 ## Official Links
 
-X:
-Telegram:
+X:X: https://x.com/nobrakescoin
+Telegram:coming soon
 Website: Coming Soon
 
 ---
