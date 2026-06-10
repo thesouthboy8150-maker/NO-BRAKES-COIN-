@@ -1,4 +1,4 @@
-# NO BRAKES ($NOBRK)
+# NO BRAKES
 
 ## About
 
